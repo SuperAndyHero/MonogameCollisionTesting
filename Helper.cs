@@ -209,6 +209,7 @@ namespace MonogameCollisionTesting
             return false;
         }
 
+
         public static float ToRotation(this Vector2 v) { return (float)Math.Atan2((double)v.Y, (double)v.X); }
 
         public static Vector2 ToVector2Rotation(this float f) { return new Vector2((float)Math.Cos((double)f), (float)Math.Sin((double)f)); }
