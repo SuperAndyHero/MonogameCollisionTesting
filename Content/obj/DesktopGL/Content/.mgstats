@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/crowly/source/repos/MonogameCollisionTesting/Content/Arial.spritefont","C:/Users/crowly/source/repos/MonogameCollisionTesting/Content/bin/DesktopGL/Content/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.7182029
+"C:/Users/crowly/source/repos/MonogameCollisionTesting/Content/Debug.png","C:/Users/crowly/source/repos/MonogameCollisionTesting/Content/bin/DesktopGL/Content/Debug.xnb","TextureProcessor","Texture2DContent",139,1109,0.1660332
+"C:/Users/crowly/source/repos/MonogameCollisionTesting/Content/Floor.png","C:/Users/crowly/source/repos/MonogameCollisionTesting/Content/bin/DesktopGL/Content/Floor.xnb","TextureProcessor","Texture2DContent",2202,617881,0.5900692
